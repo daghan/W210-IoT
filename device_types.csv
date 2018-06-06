@@ -1,0 +1,23 @@
+﻿Description,OS,MAC_address,Manufacturer,Device_Type
+daghan-macbook-8,Mac OS X 10.13,34:36:3b:7f:3f:a0,Apple,Macbook
+iPhone,Apple iPhone,d8:8f:76:bb:35:97,Apple,Iphone
+Daghans-iPhone,Apple iPhone,cc:08:8d:4c:eb:08,Apple,Iphone
+Apple-TV,iOS,50:32:37:a3:4d:38,Apple,TV 
+Agnethas-MacBook-Air,Mac OS X 10.12,84:38:35:5a:70:40,Apple,Macbook
+sonos7828CA03800C,Cisco/Linksys Router,78:28:ca:03:80:0c,Sonos,One
+Pnar-Altas,Apple iPad,98:b8:e3:cc:55:e8,Apple,Ipad
+Daghan-Altas-MBP,Mac OS X 10.13,88:e9:fe:4c:5e:4f,Apple,Macbook
+Pnarn-iPhoneu,Apple iPhone,48:74:6e:b0:09:d4,Apple,Iphone
+Apple-TV-3,iOS,40:cb:c0:bc:36:7e,Apple,TV 
+Daghan deskphone,Meraki,00:18:0a:12:2f:2d,Meraki,Phone
+Android,Android,b4:7c:9c:31:b4:df,Amazon Technologies,Echo
+Android,Android,88:71:e5:d2:73:4b,Amazon Technologies,Echo
+sonosB8E9378CDA3C,Cisco/Linksys Router,b8:e9:37:8c:da:3c,Sonos,One
+SonosZP,Cisco/Linksys Router,78:28:ca:32:4b:28,Sonos,One
+44:65:0d:66:72:60,Generic Linux,44:65:0d:66:72:60,Amazon Technologies,Echo
+sonos5CAAFD4C87A0,Cisco/Linksys Router,5c:aa:fd:4c:87:a0,Sonos,One
+Nest,Raspberry Pi,18:b4:30:0d:87:18,Nest Labs,Thermostat
+DaghanspleWatch,iOS,30:63:6b:65:e4:04,Apple,Watch
+64:b5:c6:b7:60:43,Nokia,64:b5:c6:b7:60:43,Nintendo,Switch
+SonosZP,Cisco/Linksys Router,5c:aa:fd:4c:92:86,Sonos,One
+WeMo,Other,ec:1a:59:f6:eb:45,Belkin,Smartplug
