@@ -1,31 +1,31 @@
-﻿Description,Last seen,Usage,OS,IPv4 address,Policy,MAC address,Manufacturer,Device Type
-Daghan deskphone,6/6/18 11:29,962619.1434,Meraki,192.168.1.236,normal,00:18:0a:12:2f:2d,Meraki,Phone
-Nest,6/6/18 11:30,83495,Raspberry Pi,192.168.1.235,normal,18:b4:30:0d:87:18,Nest Labs,Thermostat
-iPhone,5/19/18 18:11,4825600,Apple iPhone,192.168.1.9,Privacy please,18:f6:43:57:fc:8f,Apple,iPhone
-Daghan-Home,6/6/18 11:30,31267720.19,Mac OS X 10.13,192.168.1.233,normal,28:f0:76:31:d3:58,Apple,Computer
-DaghanspleWatch,6/5/18 5:43,267294,iOS,192.168.1.7,normal,30:63:6b:65:e4:04,Apple,Watch
-daghan-macbook-8,6/6/18 11:21,26054385,Mac OS X 10.13,192.168.1.21,Privacy please,34:36:3b:7f:3f:a0,Apple,Computer
-Daghan-Home,6/6/18 11:29,215554.8587,Mac OS X,192.168.1.224,normal,38:c9:86:40:7c:a6,Apple,Computer
-Apple-TV-3,6/3/18 19:35,1,iOS,192.168.1.247,normal,40:cb:c0:bc:36:7c,Apple,TV
-Apple-TV-3,6/6/18 11:29,643408.9096,iOS,192.168.1.249,normal,40:cb:c0:bc:36:7e,Apple,TV
-44:65:0d:66:72:60,6/6/18 1:22,357305,Generic Linux,192.168.1.19,normal,44:65:0d:66:72:60,Amazon Technologies,Echo
-Amazon Tap,5/20/18 2:08,6754,Android,192.168.1.13,normal,44:65:0d:90:60:3a,Amazon Technologies,Echo
-engin-iPhoneu,6/6/18 11:30,9831389.913,Apple iPhone,192.168.1.22,normal,48:74:6e:b0:09:d4,Apple,iPhone
-Apple-TV,6/6/18 11:30,37877889.12,iOS,192.168.1.243,normal,50:32:37:a3:4d:38,Apple,iPhone
-sonos5CAAFD4C87A0,6/6/18 11:30,1070523.973,Cisco/Linksys Router,192.168.1.12,normal,5c:aa:fd:4c:87:a0,Sonos,Speaker
-SonosZP,6/6/18 11:30,22912.80022,Cisco/Linksys Router,192.168.1.15,normal,5c:aa:fd:4c:92:86,Sonos,Speaker
-Samsung,6/6/18 9:18,12698073,Tizen OS,192.168.1.241,normal,64:1c:b0:7b:f4:10,Samsung,Phone
-64:b5:c6:b7:60:43,6/6/18 11:29,4677321,Nokia,192.168.1.10,normal,64:b5:c6:b7:60:43,Nintendo,Switch
-sonos7828CA03800C,6/6/18 11:30,2876135.937,Cisco/Linksys Router,192.168.1.232,normal,78:28:ca:03:80:0c,Sonos,Speaker
-SonosZP,6/6/18 11:29,106490.0613,Cisco/Linksys Router,192.168.1.225,normal,78:28:ca:32:4b:28,Sonos,Speaker
-Agnethas-MacBook-Air,6/6/18 11:30,40861808,Mac OS X 10.12,192.168.1.18,Privacy please,84:38:35:5a:70:40,Apple,Computer
-Android,6/6/18 11:30,315360.0753,Android,192.168.1.6,normal,88:71:e5:d2:73:4b,Amazon Technologies,Echo
-Daghan-Altas-MBP,6/6/18 6:59,21560071,Mac OS X 10.13,192.168.1.239,normal,88:e9:fe:4c:5e:4f,Apple,Computer
-Pnar-Altas,6/6/18 11:29,15837000,Apple iPad,192.168.1.23,normal,98:b8:e3:cc:55:e8,Apple,iPad
-Android,6/6/18 11:30,201694.8919,Android,192.168.1.5,normal,b4:7c:9c:31:b4:df,Amazon Technologies,Echo
-sonosB8E9378CDA3C,6/6/18 11:29,268551.7653,Cisco/Linksys Router,192.168.1.211,normal,b8:e9:37:8c:da:3c,Sonos,Speaker
-Daghans-iPhone,6/6/18 6:59,20067340,Apple iPhone,192.168.1.8,normal,cc:08:8d:4c:eb:08,Apple,iPhone
-Apple-TV-3,5/28/18 18:39,94889706.52,Apple iPhone,192.168.1.238,normal,d0:4f:7e:06:25:ad,Apple,TV
-iPhone,6/6/18 11:28,10663173,Apple iPhone,192.168.1.240,normal,d8:8f:76:bb:35:97,Apple,iPhone
-localhost,6/3/18 21:16,18937,Tizen OS,192.168.1.11,normal,e4:7d:bd:3f:96:ec,Samsung,Phone
-WeMo,6/6/18 11:29,19640,Other,192.168.1.234,normal,ec:1a:59:f6:eb:45,Belkin,Wallplug
+﻿Description,MAC address,Manufacturer,Device Type
+Daghan deskphone,00:18:0a:12:2f:2d,Meraki,Phone
+Nest,18:b4:30:0d:87:18,Nest,Thermostat
+iPhone,18:f6:43:57:fc:8f,Apple,IPhone
+Daghan-Home,28:f0:76:31:d3:58,Apple,Computer
+DaghanspleWatch,30:63:6b:65:e4:04,Apple,Watch
+daghan-macbook-8,34:36:3b:7f:3f:a0,Apple,Computer
+Daghan-Home,38:c9:86:40:7c:a6,Apple,Computer
+Apple-TV-3,40:cb:c0:bc:36:7c,Apple,TV
+Apple-TV-3,40:cb:c0:bc:36:7e,Apple,TV
+44:65:0d:66:72:60,44:65:0d:66:72:60,Amazon,Echo
+Amazon Tap,44:65:0d:90:60:3a,Amazon,Echo
+engin-iPhoneu,48:74:6e:b0:09:d4,Apple,iPhone
+Apple-TV,50:32:37:a3:4d:38,Apple,iPhone
+sonos5CAAFD4C87A0,5c:aa:fd:4c:87:a0,Sonos,Speaker
+SonosZP,5c:aa:fd:4c:92:86,Sonos,Speaker
+Samsung,64:1c:b0:7b:f4:10,Samsung,Phone
+64:b5:c6:b7:60:43,64:b5:c6:b7:60:43,Nintendo,Switch
+sonos7828CA03800C,78:28:ca:03:80:0c,Sonos,Speaker
+SonosZP,78:28:ca:32:4b:28,Sonos,Speaker
+Agnethas-MacBook-Air,84:38:35:5a:70:40,Apple,Computer
+Android,88:71:e5:d2:73:4b,Amazon,Echo
+Daghan-Altas-MBP,88:e9:fe:4c:5e:4f,Apple,Computer
+Pnar-Altas,98:b8:e3:cc:55:e8,Apple,iPad
+Android,b4:7c:9c:31:b4:df,Amazon,Echo
+sonosB8E9378CDA3C,b8:e9:37:8c:da:3c,Sonos,Speaker
+Daghans-iPhone,cc:08:8d:4c:eb:08,Apple,iPhone
+Apple-TV-3,d0:4f:7e:06:25:ad,Apple,TV
+iPhone,d8:8f:76:bb:35:97,Apple,IPhone
+localhost,e4:7d:bd:3f:96:ec,Samsung,Phone
+WeMo,ec:1a:59:f6:eb:45,Belkin,Wemo switch 
